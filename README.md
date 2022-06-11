@@ -73,6 +73,6 @@ https://www.linkedin.com/in/arianazmoudeh/
 
 i hope you enjoy it
 
-Want to thank me? Buy Me a Coffee :)
+So, did you find this helpful? If you did or like it, feel free to buy me a coffee. Thanks.
 
 https://www.buymeacoffee.com/ariahelpdesk
