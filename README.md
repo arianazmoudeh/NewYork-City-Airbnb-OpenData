@@ -30,4 +30,5 @@ What can we learn from predictions? (ex: locations, prices, reviews, etc)
 Which hosts are the busiest and why?
 Acknowledgement
 This dataset is part of Airbnb Inside but I tried to make new columns and many data inconsistency issue to create a new dataset to practice data cleaning.
-The original source can be found here ( http://insideairbnb.com/explore/ )
+The original source can be found here
+http://insideairbnb.com/explore/
