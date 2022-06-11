@@ -58,18 +58,11 @@ http://insideairbnb.com/explore/
 
 Arian Azmoudeh
 
-
-Ai & Machine Learning Student
-
-
 @ArianAzmoudeh
-
 
 Arian.Azmoudeh@yahoo.com
 
-
 https://www.linkedin.com/in/arianazmoudeh/
-
 
 i hope you enjoy it
 
