@@ -53,3 +53,26 @@ Acknowledgement
 This dataset is part of Airbnb Inside but I tried to make new columns and many data inconsistency issue to create a new dataset to practice data cleaning.
 The original source can be found here
 http://insideairbnb.com/explore/
+
+
+
+Arian Azmoudeh
+
+
+Ai & Machine Learning Student
+
+
+@ArianAzmoudeh
+
+
+Arian.Azmoudeh@yahoo.com
+
+
+https://www.linkedin.com/in/arianazmoudeh/
+
+
+i hope you enjoy it
+
+Want to thank me? Buy Me a Coffee :)
+
+https://www.buymeacoffee.com/ariahelpdesk
