@@ -6,9 +6,11 @@ Airbnb, Inc is an American company that operates an online marketplace for lodgi
 About Dataset
 
 Context
+
 Since 2008, guests and hosts have used Airbnb to travel in a more unique, personalized way. As part of the Airbnb Inside initiative, this dataset describes the listing activity of homestays in New York City
 
 Content
+
 The following Airbnb activity is included in this New York dataset:
 
 Listings, including full descriptions and average review score
@@ -17,18 +19,32 @@ Calendar, including listing id and the price and availability for that day
 
 Inspiration
 
+
 Learn Data Cleaning
+
 Data Cleaning Challenge
+
 Data Cleaning Practice for beginners
+
 Handling missing values
+
 Handling Outliers
+
 Handle inconsistent data
+
 Data Visualization
+
 Data analysis
+
 What can we learn about different hosts and areas?
+
 What can we learn from predictions? (ex: locations, prices, reviews, etc)
+
 Which hosts are the busiest and why?
+
+
 Acknowledgement
+
 This dataset is part of Airbnb Inside but I tried to make new columns and many data inconsistency issue to create a new dataset to practice data cleaning.
 The original source can be found here
 http://insideairbnb.com/explore/
